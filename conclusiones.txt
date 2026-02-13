@@ -1,0 +1,6 @@
+Conclusiones (pendiente de ejecucion real)
+
+1) El script parametriza credenciales desde CSV y valida respuestas 200.
+2) Los umbrales configurados permiten identificar fallas y latencias altas.
+3) Para completar hallazgos reales, ejecutar la prueba y revisar reports/summary.json.
+4) El reporte HTML puede generarse con el dashboard nativo de k6 o con k6-reporter.
